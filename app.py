@@ -72,3 +72,11 @@ if __name__ == '__main__':
     
     fetch_and_print(args.url)
 
+
+#The code has the ability to read local and remote link
+
+#understand the data reposnse fron the jokes postman server
+#add net endpoints
+#modify the data read and write accordingly 
+
+
